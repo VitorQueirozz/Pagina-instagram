@@ -116,11 +116,11 @@ body {
 }
 
 .app-dowload:nth-child(1) {
-    background-image: url('./logo\ app\ stroe.png')
+    background-image: url('./imagens/logo\ app\ stroe.png')
 }
 
 .app-dowload:nth-child(2) {
-    background-image: url('./logo\ google\ play.png')
+    background-image: url('./imagens/logo\ google\ play.png')
 }
 
 /* media queries */
